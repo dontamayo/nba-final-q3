@@ -6,19 +6,19 @@
 
 ##### Articles/News
 <!-- ![articles](public/images/screenshots/a.png) -->
-<img src='./public/images/screenshots/a.png' width='65px' />
+<img src='./public/images/screenshots/a.png' width='125px' />
 
 #### Videos
 <!-- ![videos](public/images/screenshots/c.png) -->
-<img src='./public/images/screenshots/c.png' width='65px' />
+<img src='./public/images/screenshots/c.png' width='125px' />
 
 #### Dashboard/login
 <!-- ![Add dashboard/login](public/images/screenshots/e.png) -->
-<img src='./public/images/screenshots/e.png' width='65px' />
+<img src='./public/images/screenshots/e.png' width='125px' />
 
 #### Add Post
 <!-- ![Add post/articles](public/images/screenshots/f.png) -->
-<img src='./public/images/screenshots/f.png' width='65px' />
+<img src='./public/images/screenshots/f.png' width='125px' />
 
 
 * Provide a brief description about your project that answers the following questions:
