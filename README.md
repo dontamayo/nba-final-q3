@@ -5,16 +5,16 @@
 * Firebase: https://nba-2018-q3.firebaseapp.com/
 
 ##### Articles/News
-![articles](build/images/screenshots/a.png)
+![articles](public/images/screenshots/a.png)
 
 #### Videos
-![videos](build/images/screenshots/c.png)
+![videos](public/images/screenshots/c.png)
 
 #### Dashboard/login
-![dashboard](build/images/screenshots/e.png)
+![dashboard](public/images/screenshots/e.png)
 
 #### Add Post
-![Add post/articles](build/images/screenshots/f.png)
+![Add post/articles](public/images/screenshots/f.png)
 
 
 
