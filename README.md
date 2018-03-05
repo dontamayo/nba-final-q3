@@ -1,6 +1,10 @@
 ## MY NBA APP 2018
 -------------------------------------------------
-https://github.com/webbydon29/nba-final-q3
+* Github: https://github.com/webbydon29/nba-final-q3
+* Heroku: https://nba-apps-2018.herokuapp.com/
+* Firebase: https://nba-2018-q3.firebaseapp.com/
+
+
 
 * Provide a brief description about your project that answers the following questions:
 ``` I'm creating an apps for Basketball Lovers, it includes latest movies, news, blogs, funny moments, best shots and many more. ```
