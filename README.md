@@ -4,6 +4,18 @@
 * Heroku: https://nba-apps-2018.herokuapp.com/
 * Firebase: https://nba-2018-q3.firebaseapp.com/
 
+##### Articles/News
+![articles](build/images/screenshots/a.png)
+
+#### Videos
+![videos](build/images/screenshots/c.png)
+
+#### Dashboard/login
+![dashboard](build/images/screenshots/e.png)
+
+#### Add Post
+![Add post/articles](build/images/screenshots/f.png)
+
 
 
 * Provide a brief description about your project that answers the following questions:
