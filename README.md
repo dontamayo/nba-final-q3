@@ -27,7 +27,7 @@
 
 ### My Journey in Creating this Apps
 
-##### All credits to galvanize, to my teacher Adam for my Q3 projects, to my classmates for helping me reach my potentials, to Coding Revolution and Udemy Courses to enhance my learning
+##### All credits to galvanize, to my teacher Adam for my Q3 project, to my classmates for helping me reach my potentials, to Coding Revolution and Udemy Courses to enhance my learning
 
 ##### Steps
 | Title | Commands | Comments |
@@ -56,3 +56,4 @@
 | building | npm run build | it will create a bundle for production that can rn though firebase or even heroku |
 | tools |	npm install -g firebase-tools | initialization |
 | firebase login | 	firebase init | 	firebase deploy |
+| heroku | heroku login, heroku create nba-app-2018, heroku deploy | enjoy and dont forget to sign in and try my app! | 
