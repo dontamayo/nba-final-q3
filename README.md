@@ -6,11 +6,12 @@
 
 ##### Articles/News
 ![articles](public/images/screenshots/a.png)
+
 #### Videos
 ![videos](public/images/screenshots/c.png)
 
 #### Dashboard/login
-![Add dashboard/login](public/images/screenshots/d.png)
+![Add dashboard/login](public/images/screenshots/e.png)
 
 #### Add Post
 ![Add post/articles](public/images/screenshots/f.png)
