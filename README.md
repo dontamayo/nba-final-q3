@@ -20,6 +20,13 @@
 <!-- ![Add post/articles](public/images/screenshots/f.png) -->
 <img src='./public/images/screenshots/f.png' width='125px' />
 
+| Aricles/News | Videos | Dashboard/Login | Add Post |
+|--------------|--------|-----------------|----------|
+|<img src='./public/images/screenshots/a.png' width='125px' />| <img src='./public/images/screenshots/c.png' width='125px' />
+| <img src='./public/images/screenshots/e.png' width='125px' /> | <img src='./public/images/screenshots/f.png' width='125px' /> |
+
+
+
 
 * Provide a brief description about your project that answers the following questions:
 ``` I'm creating an apps for Basketball Lovers, it includes latest movies, news, blogs, funny moments, best shots and many more. ```
