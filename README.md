@@ -4,27 +4,11 @@
 * Heroku: https://nba-apps-2018.herokuapp.com/
 * Firebase: https://nba-2018-q3.firebaseapp.com/
 
-##### Articles/News
-<!-- ![articles](public/images/screenshots/a.png) -->
-<img src='./public/images/screenshots/a.png' width='125px' />
-
-#### Videos
-<!-- ![videos](public/images/screenshots/c.png) -->
-<img src='./public/images/screenshots/c.png' width='125px' />
-
-#### Dashboard/login
-<!-- ![Add dashboard/login](public/images/screenshots/e.png) -->
-<img src='./public/images/screenshots/e.png' width='125px' />
-
-#### Add Post
-<!-- ![Add post/articles](public/images/screenshots/f.png) -->
-<img src='./public/images/screenshots/f.png' width='125px' />
+### Quick View
 
 | Aricles/News | Videos | Dashboard/Login | Add Post |
 |--------------|--------|-----------------|----------|
-|<img src='./public/images/screenshots/a.png' width='125px' />| <img src='./public/images/screenshots/c.png' width='125px' />|<img src='./public/images/screenshots/e.png' width='125px' /> | <img src='./public/images/screenshots/f.png' width='125px' />|
-
-
+|<img src='./public/images/screenshots/a.png' width='175px' />| <img src='./public/images/screenshots/c.png' width='175px' />|<img src='./public/images/screenshots/e.png' width='175px' /> | <img src='./public/images/screenshots/f.png' width='175px' />|
 
 
 * Provide a brief description about your project that answers the following questions:
