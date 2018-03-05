@@ -5,17 +5,15 @@
 * Firebase: https://nba-2018-q3.firebaseapp.com/
 
 ##### Articles/News
-![articles](public/images/screenshots/a.png){:height="50%" width="50%"}
-
+![articles](public/images/screenshots/a.png)
 #### Videos
-![videos](public/images/screenshots/c.png){:height="50%" width="50%"}
+![videos](public/images/screenshots/c.png)
 
 #### Dashboard/login
-![Add dashboard/login](public/images/screenshots/d.png){:height="50%" width="50%"}
+![Add dashboard/login](public/images/screenshots/d.png)
 
 #### Add Post
-![Add post/articles](public/images/screenshots/f.png){:height="50%" width="50%"}
-
+![Add post/articles](public/images/screenshots/f.png)
 
 
 * Provide a brief description about your project that answers the following questions:
