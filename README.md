@@ -22,8 +22,7 @@
 
 | Aricles/News | Videos | Dashboard/Login | Add Post |
 |--------------|--------|-----------------|----------|
-|<img src='./public/images/screenshots/a.png' width='125px' />| <img src='./public/images/screenshots/c.png' width='125px' />
-| <img src='./public/images/screenshots/e.png' width='125px' /> | <img src='./public/images/screenshots/f.png' width='125px' /> |
+|<img src='./public/images/screenshots/a.png' width='125px' />| <img src='./public/images/screenshots/c.png' width='125px' />|<img src='./public/images/screenshots/e.png' width='125px' /> | <img src='./public/images/screenshots/f.png' width='125px' />|
 
 
 
