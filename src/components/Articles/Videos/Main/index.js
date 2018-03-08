@@ -6,7 +6,7 @@ const VideosMain = () => (
         type="card"
         title={false}
         loadmore={true}
-        start={0}
+        start={1}
         amount={10}
     />
 )

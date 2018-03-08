@@ -21,7 +21,7 @@
 ```the user will be most likely those people that are inlove with NBA, sports and entertainments.```
 ----------------------------------------
 * What technologies will you be using?
-```i will be using reactJS, node modules NPM's ( npm i react-router-dom react-fontawesome react-simple-sidenav react-slick axios json-server –dev) and many more```
+```i will be using reactJS, node modules NPM's ( npm i react-router-dom react-fontawesome react-simple-sidenav react-slick axios json-server –dev) and firebase database, authenticaton, hosting, Heroku and many morer```
 -----------------------------------
 
 
@@ -56,4 +56,4 @@
 | building | npm run build | it will create a bundle for production that can rn though firebase or even heroku |
 | tools |	npm install -g firebase-tools | initialization |
 | firebase login | 	firebase init | 	firebase deploy |
-| heroku | heroku login, heroku create nba-app-2018, heroku deploy | enjoy and dont forget to sign in and try my app! | 
+| heroku | heroku login, heroku create nba-app-2018, heroku deploy | enjoy and dont forget to sign in and try my app! |

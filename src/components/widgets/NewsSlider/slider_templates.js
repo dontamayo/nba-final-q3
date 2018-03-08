@@ -9,10 +9,10 @@ const SliderTemplates = (props) => {
     let template = null;
 
     const settings = {
-        dots:true,
+        dots:false,
         infinite: true,
-        arrows: false,
-        speed: 500,
+        arrows: true,
+        speed: 300,
         slidesToShow: 1,
         slidesToScroll:1,
         ...props.settings

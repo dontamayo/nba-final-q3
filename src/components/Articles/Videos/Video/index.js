@@ -77,7 +77,7 @@ class VideoArticle extends Component {
         // })
     }
 
-  
+
     render(){
         const article = this.state.article;
         const team = this.state.team;

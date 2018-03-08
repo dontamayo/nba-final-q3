@@ -10,8 +10,9 @@ const SideNavigation = (props) => {
                 showNav={props.showNav}
                 onHideNav={props.onHideNav}
                 navStyle={{
-                    background:'#242424',
+                    background:'#273447',
                     maxWidth:'220px'
+
                 }}
             >
                 <SideNavItems {...props}/>
